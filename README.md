@@ -67,7 +67,7 @@ Por último, Cuándo salen las almas del escondite?, salen ni bien un demonio te
 #### Purgatorio
 - Tiene 5 lugares para esconderse
 - Si hay lugar , el alma tiene `bondad` > 10 y un `valor` > 5, puede esconderse
-- Se la penaliza descontando 5 en su `bondad` y 1 en 
+- Se la penaliza descontando 5 en su `bondad` y 1 en valor
 
 #### Infierno
 - Tiene 2 lugares para esconderse
@@ -86,10 +86,13 @@ El poder de un demonio se calcula de la siguiente manera:
 Las batallas permiten que haya empates, en caso de empate.
 
 ### Premios y castigos
-Luego de terminada una batalla, el diablo premia al ganadores y castiga al perdedor. Los premios y castigos dependen del humor del diablo, si está `contento` al ganador le otorna 10 puntos extras en su nivel de maldad y al perdedor solo le quita 2 almas cazadas. En cambio, si el diablo esta `triste` al ganador solo le otorga 1 punto extra en su nivel de maldad y al perdedor le quita todas las almas cazadas.
+Luego de terminada una batalla, el diablo premia al ganadores y castiga al perdedor. Los premios y castigos dependen del humor del diablo, 
+si está `contento` al ganador le otorna 10 puntos extras en su nivel de maldad y al perdedor solo le quita 2 almas cazadas. 
+En cambio, si el diablo esta `triste` al ganador solo le otorga 1 punto extra en su nivel de maldad y al perdedor 
+le quita todas las almas cazadas.
 
 ### Armas
-Las almas disponibles para los demonios son las siguientes:
+Las armas disponibles para los demonios son las siguientes:
 - Espada: Entrega 20 de poder
 - Ballesta: Entrega 15 de poder
 - Arco y flecha: Entrega 5 de poder

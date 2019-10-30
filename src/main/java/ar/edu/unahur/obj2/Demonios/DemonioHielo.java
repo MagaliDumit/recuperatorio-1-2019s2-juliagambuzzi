@@ -1,9 +1,11 @@
-package ar.edu.unahur.obj2;
+package ar.edu.unahur.obj2.Demonios;
+
+import ar.edu.unahur.obj2.Almas.Alma;
 
 public class DemonioHielo extends Demonio {
 
-    public DemonioHielo(int maldad) {
-        super(maldad);
+    public DemonioHielo(int maldad, Arma arma) {
+        super(maldad, arma);
     }
 
     @Override

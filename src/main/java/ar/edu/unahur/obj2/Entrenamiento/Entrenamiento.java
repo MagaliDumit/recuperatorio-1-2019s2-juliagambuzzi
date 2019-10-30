@@ -1,4 +1,6 @@
-package ar.edu.unahur.obj2;
+package ar.edu.unahur.obj2.Entrenamiento;
+
+import ar.edu.unahur.obj2.Almas.Alma;
 
 public abstract class Entrenamiento implements Alma {
 
